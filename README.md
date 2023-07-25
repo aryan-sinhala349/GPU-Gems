@@ -4,7 +4,7 @@
 GPU Gems 1:
 | Chapter | Branch |
 | :--- | :--- |
-| Chapter 1. Effective Water Simulation from Physical Models | |
+| Chapter 1. Effective Water Simulation from Physical Models | [01-01-water-simulation](https://github.com/aryan-sinhala349/GPU-Gems/tree/01-01-water-simulation) |
 | Chapter 2. Rendering Water Caustics | |
 | Chapter 3. Skin in the "Dawn" Demo | |
 | Chapter 4. Animation in the "Dawn" Demo | |
